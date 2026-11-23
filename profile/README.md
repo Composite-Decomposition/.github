@@ -61,8 +61,6 @@ The repository is deliberately not a single executable tool. It is the canonical
 the standard: RFCs, architectural edge cases, and a registry of community-built
 evaluators across ecosystems (CLI tools, GitHub Actions, static site generator plugins).
 
----
-
 ### Collaborating & Contributing
 
 We advocate for sustainable open-source software and welcome a range of perspectives.
