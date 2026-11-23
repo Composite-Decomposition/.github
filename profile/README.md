@@ -1,6 +1,4 @@
-# Composite Decomposition 👋
-
-**Systems thinking in CS, software, and AI engineering. Building understanding by showcasing concepts in action.**
+# Hi there 👋
 
 Composite Decomposition is an open-source engineering organization focused on how constituent parts relate to the whole—and how context gives meaning to complexity.
 
