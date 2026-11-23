@@ -63,7 +63,7 @@ evaluators across ecosystems (CLI tools, GitHub Actions, static site generator p
 
 ---
 
-## Collaborating & Contributing
+### Collaborating & Contributing
 
 We advocate for sustainable open-source software and welcome a range of perspectives.
 
