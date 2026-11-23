@@ -6,7 +6,7 @@ In an era where generating isolated fragments of code is trivial, the real diffe
 
 ---
 
-### Featured Project: Intentional Links
+## Featured Project: Intentional Links
 
 Standard link checkers validate transport syntax (`HTTP 200 OK`), not semantics—leaving technical documentation vulnerable to silent **content drift** when external pages redirect or change topic.
 
@@ -18,13 +18,13 @@ Rather than housing a single executable tool, the `intentional-links` repository
 
 ---
 
-### Collaborating & Contributing
+## Collaborating & Contributing
 
 We strongly advocate for the creation of sustainable open-source software and components. Our community actively encourages a diverse range of perspectives, feedback, and collaborative proposals that resonate with our overarching mission.
 
 ---
 
-### Further Explorations
+## Further Explorations
 
 The mental models and architectural breakdowns behind these projects are also published through long-form essays and visual walkthroughs:
 
