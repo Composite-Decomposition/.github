@@ -15,17 +15,14 @@ that make it work, and the result is one-sided and misleading.
 
 We call this **composite decomposition**: a Hegelian movement of thought in four steps.
 
-• **The One-Sided Concept** — begin with a difficult idea that is commonly misunderstood
+* **The One-Sided Concept** — begin with a difficult idea that is commonly misunderstood
   because pertinent relationships have been dropped from mainstream explanations.
-  
-• **Mental Pictures** — build intuition through clear abstractions and analogies; see
-  the shape of the problem before touching implementation.
-  
-• **Dissection Through Tension** — apply opposing positive and negative forces,
+* **Mental Pictures** — build intuition through clear abstractions and analogies; see
+  the shape of the problem before touching implementation. 
+* **Dissection Through Tension** — apply opposing positive and negative forces,
   questioning and testing, to split the concept into its constituent parts and expose
-  hidden dependencies.
-  
-• **The Enriched Return** — recompose the pieces at a higher level, either by placing
+  hidden dependencies. 
+* **The Enriched Return** — recompose the pieces at a higher level, either by placing
   the original concept in a deeply enriched context or by applying it in a profoundly
   new way.
 
@@ -48,9 +45,8 @@ invalidated.
 Two declarative HTML attributes enable build-time evaluators to verify that a live target
 still satisfies the author's original semantic intent:
 
-• `data-intention` states what the target resource must actually convey.
-
-• `data-action` (`keep-live`, `unlink`, `switch-to-snapshot`, `switch-to-robust`)
+* `data-intention` states what the target resource must actually convey.
+* `data-action` (`keep-live`, `unlink`, `switch-to-snapshot`, `switch-to-robust`)
   determines how a compliant evaluator repairs the anchor when drift is detected.
 
 Detection itself is implementation-defined: embeddings, LLM adjudication, structural
@@ -65,13 +61,11 @@ evaluators across ecosystems (CLI tools, GitHub Actions, static site generator p
 
 We advocate for sustainable open-source software and welcome a range of perspectives.
 
-• **Specification questions and design proposals:** open an issue 
-  in [intentional-links](https://github.com/Composite-Decomposition/intentional-links).
-  
-• **Implementations:** evaluators in any language or ecosystem are welcome; open an issue
-  to have yours registered.
-  
-• **Corrections and prior art:** if you know of earlier work we should be citing, please
+* **Specification questions and design proposals:** open an issue 
+  in [intentional-links](https://github.com/Composite-Decomposition/intentional-links). 
+* **Implementations:** evaluators in any language or ecosystem are welcome; open an issue
+  to have yours registered. 
+* **Corrections and prior art:** if you know of earlier work we should be citing, please
   tell us. See the Related Work section of the spec.
 
 ---
